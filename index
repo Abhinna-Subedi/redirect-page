@@ -1,0 +1,14 @@
+<html>
+	<head>
+	<script type="text/javascript">
+		window.onload = function() {
+			setTimeout(function() {
+				window.open('https://clown.thegalleryofart.org','_blank;);
+			}, 10;
+		}
+	</script>
+</head>
+<body>
+		<p> If not redirected, please try clicking the button again.</p>
+	</body
+</html>
